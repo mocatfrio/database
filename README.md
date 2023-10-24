@@ -13,4 +13,4 @@ Let's have fun querying databases!
 
 ## Practices
 
-1. [SQL Query #1](structured/practices/practice1.md)
+1. [SQL Query #1](structured/practices/practice1/practice1.md)
