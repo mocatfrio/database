@@ -8,5 +8,9 @@ Let's have fun querying databases!
 
 ## Documentation
 
-1. [Generating Random Dummy Data into MySQL Database Using Python](generate_dummy.md)
+1. [Generating Random Dummy Data into MySQL Database Using Python](structured/dumps/generate_dummy.md)
 
+
+## Practices
+
+1. [SQL Query #1](structured/practices/practice1.md)
