@@ -142,7 +142,7 @@
         print(e)
     ```
 
-[Full Script](structured/dumps/generate_dummy.py)
+[Full Script](generate_dummy.py)
 
 
 ### C. Generate Data
@@ -194,7 +194,7 @@
     );
     ``` 
 
-    [SQL Script](structured/dumps/Createdb20231024.sql)
+    [SQL Script](Createdb20231024.sql)
 
 7. Run the python scripts
     ```bash
@@ -214,6 +214,6 @@
 
 Here are the dummy database dumps!
 
-[Database Dumps](structured/dumps/Dump20231024.sql)
+[Database Dumps](Dump20231024.sql)
 
 Please use them to do SQL query exercises!"
