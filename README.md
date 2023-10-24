@@ -1,6 +1,6 @@
 # Let's learn Database!
 
-**Hi! 😸 **
+**Hi! 😸**
 
 Whether you're a curious beginner or an experienced developer, this repository is your companion for mastering databases. We have a collection of resources, tutorials, and hands-on exercises related to databases.
 
