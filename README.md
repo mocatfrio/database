@@ -23,4 +23,6 @@ Let's have fun!
 5. [Apache Cassandra: Implementation CRUD with Flask, Apache Cassandra and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-6)
 6. [MySQL, Redis: Implementation CRUD with Flask, Redis Sentinel, MySQL Group Replication, and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-EAS)
 
+
+
 Created with ❤️ by mocatfrio
