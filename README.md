@@ -19,7 +19,7 @@ Let's have fun!
 1. [MySQL: Implementation of MySQL Replication](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-1)
 2. [MySQL: Implementation of Database Partition](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-2)
 3. [MySQL: Implementation Parallel DBMS with ProxySQL and MySQL Group Replication](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-ETS)
-4. [MongoDB Cluster: Implementation CRUD with NodeJS, MongoDB Cluster, and Vagrant Virtual Box](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-5)
+4. [MongoDB Cluster: Implementation CRUD with NodeJS, MongoDB Cluster, and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-5)
 5. [Apache Cassandra: Implementation CRUD with Flask, Apache Cassandra and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-6)
 6. [MySQL, Redis: Implementation CRUD with Flask, Redis Sentinel, MySQL Group Replication, and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-EAS)
 
