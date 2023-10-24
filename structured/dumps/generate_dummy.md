@@ -216,4 +216,4 @@ Here are the dummy database dumps!
 
 [Database Dumps](Dump20231024.sql)
 
-Please use them to do SQL query exercises!"
+Please use them to do SQL query exercises!
