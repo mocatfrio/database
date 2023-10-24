@@ -1,10 +1,10 @@
-# Let's Learn Database!
+# Let's learn Database!
 
-**Welcome!**
+**Hi! 😸 **
 
-Whether you're a curious beginner or a seasoned developer, this repository is your companion for mastering databases. We offer a collection of resources, tutorials, and hands-on exercises to help you become proficient in crafting efficient database queries.
+Whether you're a curious beginner or an experienced developer, this repository is your companion for mastering databases. We have a collection of resources, tutorials, and hands-on exercises related to databases.
 
-Let's have fun querying databases!
+Let's have fun!
 
 ## Documentation
 
@@ -17,8 +17,10 @@ Let's have fun querying databases!
 ## Distributed Database
 
 1. [MySQL: Implementation of MySQL Replication](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-1)
-1. [MySQL: Implementation of Database Partition](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-2)
-1. [MySQL: Implementation Parallel DBMS with ProxySQL and MySQL Group Replication](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-ETS)
-1. [MongoDB Cluster: Implementation CRUD with NodeJS, MongoDB Cluster, and Vagrant Virtual Box](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-5)
-1. [Apache Cassandra: Implementation CRUD with Flask, Apache Cassandra and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-6)
-1. [MySQL, Redis: Implementation CRUD with Flask, Redis Sentinel, MySQL Group Replication, and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-EAS)
+2. [MySQL: Implementation of Database Partition](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-2)
+3. [MySQL: Implementation Parallel DBMS with ProxySQL and MySQL Group Replication](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-ETS)
+4. [MongoDB Cluster: Implementation CRUD with NodeJS, MongoDB Cluster, and Vagrant Virtual Box](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-5)
+5. [Apache Cassandra: Implementation CRUD with Flask, Apache Cassandra and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-6)
+6. [MySQL, Redis: Implementation CRUD with Flask, Redis Sentinel, MySQL Group Replication, and Vagrant](https://github.com/mocatfrio/distributed-database/tree/master/Tugas-EAS)
+
+Created with ❤️ by mocatfrio
