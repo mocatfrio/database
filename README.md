@@ -13,6 +13,8 @@ Let's have fun!
 ## Practices
 
 1. [SQL Query #1](structured/practices/practice1/practice1.md)
+1. [SQL Query #2](structured/practices/practice2/practice2.md)
+2. 
 
 ## Distributed Database
 
