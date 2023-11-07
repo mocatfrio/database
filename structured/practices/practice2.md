@@ -104,11 +104,6 @@ Output:
 
 Subquery (sub-queries atau nested queries) dalam SQL adalah query yang terdapat di dalam query utama. Subquery dapat digunakan di berbagai bagian dari pernyataan SQL, seperti dalam klausa WHERE, FROM, SELECT, dan lain-lain.
 
-Subquery
-  * Dalam WHERE
-  * Dalam HAVING
-  * 
-
 Contoh penggunaan subquery:
 
 Misalnya Anda memiliki dua tabel, "customers" dan "orders", seperti berikut:
