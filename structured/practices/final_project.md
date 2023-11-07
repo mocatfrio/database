@@ -5,7 +5,7 @@
    
    Perhatikan contoh narasi studi kasus berikut.
 
-    ```
+    --- 
     Bengkel Handal adalah sebuah bengkel terkemuka di Surabaya yang mengkhususkan diri dalam menyediakan berbagai layanan perbaikan dan perawatan mobil. Bengkel ini hanya melayani satu merek mobil terkenal di Indonesia, sehingga mobil-mobil yang diservis berasal dari merek tersebut. Untuk mengoptimalkan operasional, Bengkel Handal membutuhkan sistem informasi yang efektif, efisien, dan dapat membantu pegawai bengkel dalam menjalankan tugas mereka.
 
     Setiap pelanggan yang datang akan dicatat informasi berikut: nama, alamat, jenis kelamin, nomor HP, nomor telepon, nomor polisi mobil, nomor rangka, nomor mesin, warna, tipe mobil, dan tahun keluaran. Bagi pelanggan yang sudah pernah datang sebelumnya, data mereka dapat dicari dari dalam sistem. Sebelum menentukan layanan yang dibutuhkan, pelanggan akan diminta untuk memberikan informasi mengenai jenis pelayanan yang diinginkan. Informasi mengenai pegawai bengkel yang menangani servis juga akan dicatat oleh sistem.
@@ -22,19 +22,19 @@
 
     Beberapa hal terkait reservasi yang dicatat oleh sistem meliputi:
 
-    a. Bengkel akan menyediakan tempat (stall) dan montir khusus untuk memastikan mobil dapat langsung dikerjakan saat tiba.
-    b. Bengkel sudah menyiapkan suku cadang yang dibutuhkan sehingga suku cadang pasti tersedia saat mobil datang.
-    ```
+    * Bengkel akan menyediakan tempat (stall) dan montir khusus untuk memastikan mobil dapat langsung dikerjakan saat tiba.
+    * Bengkel sudah menyiapkan suku cadang yang dibutuhkan sehingga suku cadang pasti tersedia saat mobil datang.
+    --- 
 
-   Berikut beberapa contoh ide yang dapat Anda gunakan:
+    Berikut beberapa contoh ide yang dapat Anda gunakan:
 
-   * Sistem Manajemen Inventaris
-   * Sistem Manajemen Perpustakaan atau Toko Buku
-   * Sistem Manajemen Mahasiswa atau Pegawai
-   * Sistem Reservasi atau Pemesanan
-   * Sistem Manajemen Proyek
-   * Sistem Manajemen Penjualan dan Pelanggan
-   * Sistem Keuangan Pribadi, dan lain sebagainya.
+    * Sistem Manajemen Inventaris
+    * Sistem Manajemen Perpustakaan atau Toko Buku
+    * Sistem Manajemen Mahasiswa atau Pegawai
+    * Sistem Reservasi atau Pemesanan
+    * Sistem Manajemen Proyek
+    * Sistem Manajemen Penjualan dan Pelanggan
+    * Sistem Keuangan Pribadi, dan lain sebagainya.
 
 3. Setelah membuat studi kasus, rancanglah ERD (Entity Relationship Diagram)-nya menggunakan model crow's foot dengan menggunakan tools seperti Draw.io, StarUML, dsb.
 4. Buatlah normalisasi tabelnya hingga mencapai bentuk 1NF, 2NF, 3NF, dan BCNF.
