@@ -12,18 +12,18 @@
 
     Kualitas fungsionalitas dinilai berdasarkan **Kompleksitas Query SQL** yang dibuat, sebagaimana tabel di bawah.
 
-    | Kompleksitas | Where | And Or Not | Order by | Special Operators | Join | Aggregate | Group by | Having | Subquery | SQL Functions |
-    |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    | 2 | :heavy_check_mark: | 
-    | 4 | :heavy_check_mark: | :heavy_check_mark: | 
-    | 6 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-    | 8 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | 
-    | 10 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | 
-    | 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-    | 14 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-    | 16 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-    | 18 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-    | 20 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+    | No. | SQL Query | Kompleksitas |
+    |:---:|:---:|:---:|
+    | 1 | Where | +1 |
+    | 2 | And Or Not | +1 |
+    | 3 | Order By | +1 |
+    | 4 | Special Operators | +1 |
+    | 5 | Join | +(jumlah tabel) |
+    | 6 | Aggregate | +1 |
+    | 7 | Group by | +1 |
+    | 8 | Having | +1 |
+    | 9 | Subquery | +(kompleksitas Subquery) |
+    | 10 | SQL Functions | +1 |
 
 4. Buatlah laporan akhir FP sederhana, berisi:
 
@@ -40,6 +40,6 @@
     * SQL Create DB dan Tabel
     * SQL Insert Dump Data
     * SQL Query
-    
+
     Di compress dalam bentuk ZIP, format penamaan: **NRP1_NRP2_NRP3**
     
