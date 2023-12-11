@@ -14,7 +14,7 @@ Let's have fun!
 
 1. [SQL Query #1](structured/practices/practice1.md)
 2. [SQL Query #2](structured/practices/practice2.md)
-3. 
+3. SQL Query #3
 
 ## Distributed Database
 
